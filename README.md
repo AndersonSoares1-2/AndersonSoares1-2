@@ -20,27 +20,44 @@ Sou **Anderson Soares**, um profissional apaixonado por **qualidade de software*
 
 ### 🧰 Ferramentas e Tecnologias
 
-#### 🧪 Testes e QA
-- ![Playwright](https://img.shields.io/badge/-Playwright-45ba63?logo=playwright&logoColor=white)
-- ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-- ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-- ![SoapUI](https://img.shields.io/badge/-SoapUI-6CB33E?logo=soapui&logoColor=white)
-- ![TestLink](https://img.shields.io/badge/-TestLink-000000?style=flat&logo=sourceforge&logoColor=white)
 
-#### 🛠️ Ferramentas de Desenvolvimento
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-- ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?logo=microsoft-office&logoColor=white)
+**Languagens**: 
 
-#### 👨‍💻 Linguagens
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+[<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48">](https://www.typescriptlang.org) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48">](https://www.javascript.com)  &nbsp; 
+[<img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" width="48" height="48">](https://www.java.com)  &nbsp; 
+[<img src="https://img.icons8.com/officel/48/000000/php-logo.png" width="48" height="48">](https://www.php.net) &nbsp;
+
+**Ferramentas de Teste**:  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" width="130" height="48">](https://playwright.dev)
+[<img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" width="48" height="48">](https://www.cypress.io)  &nbsp; 
+[<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="48" height="48">](https://www.selenium.dev)  &nbsp; 
+[<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48">](https://www.postman.com)  &nbsp; 
+[<img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="48" height="48">](https://insomnia.rest) &nbsp;
+
+**Outras**:  
+[<img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="48" height="48">](https://code.visualstudio.com) &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="90" height="48">](https://www.mysql.com)  &nbsp; 
+[<img src="https://icon.icepanel.io/Technology/svg/Git.svg" width="48" height="48">](https://git-scm.com) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/SQL-Developer.svg" width="48" height="48">](https://www.oracle.com/database/sqldeveloper/) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" width="48" height="48">](https://dbeaver.io) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="48" height="48">](https://www.atlassian.com/software/jira) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" width="48" height="48">](https://swagger.io) &nbsp;
+[<img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="48" height="48">](https://nodejs.org) &nbsp;
 
 ---
+## 🔥 Linha do GitHub
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonSoares1-2&theme=dark&hide_border=true" />
+</div>
+
+
+## 🧠 Cartões de resumo do GitHub
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndersonSoares1-2&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndersonSoares1-2&theme=tokyonight" />
+</div>
 
 ### 📫 Como me encontrar
 
