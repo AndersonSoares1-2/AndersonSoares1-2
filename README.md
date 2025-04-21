@@ -45,8 +45,8 @@ Sou **Anderson Soares**, um profissional apaixonado por **qualidade de software*
 ### 📫 Como me encontrar
 
 Entre em contato comigo para trocarmos ideias, colaborar em projetos ou falar sobre qualidade de software:  
-📧 anderson.soares@email.com *(substituir pelo e-mail real, se desejar)*  
-🌐 [LinkedIn](https://linkedin.com/in/seu-perfil) *(adicione o seu perfil real aqui)*  
+📧 andersonsoares123@gmail.com 
+🌐 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/anderson-soares-7b27961a3/)
 
 ---
 
