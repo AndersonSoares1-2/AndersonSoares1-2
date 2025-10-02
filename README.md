@@ -48,7 +48,7 @@ Sou **Anderson Soares**, um profissional apaixonado por **qualidade de software*
 ---
 ### 📊 Metodologias Ágeis
 [![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)](https://scrumguides.org/)
-[![Kanban](https://img.shields.io/badge/Kanban-009688?style=for-the-badge)](https://kanban.org/)
+[![Kanban](https://img.shields.io/badge/Kanban-009688?style=for-the-badge)](https://kanban.university/)
 
 ---
 ## 🔥 Linha do GitHub
