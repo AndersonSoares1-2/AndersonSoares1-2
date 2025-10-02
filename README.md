@@ -24,13 +24,13 @@ Sou **Anderson Soares**, um profissional apaixonado por **qualidade de software*
 **Languagens**: 
 
 [<img src="https://img.icons8.com/color/48/000000/typescript.png" width="48" height="48">](https://www.typescriptlang.org) &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48">](https://www.javascript.com)  &nbsp; 
-[<img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" width="48" height="48">](https://www.java.com)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48">](https://www.javascript.com) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48">](https://www.oracle.com/java/) &nbsp;
 [<img src="https://img.icons8.com/officel/48/000000/php-logo.png" width="48" height="48">](https://www.php.net) &nbsp;
 
 **Ferramentas de Teste**:  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" width="130" height="48">](https://playwright.dev)
-[<img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" width="48" height="48">](https://www.cypress.io)  &nbsp; 
+[<img src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" width="125" height="48">](https://www.cypress.io)
 [<img src="https://www.svgrepo.com/show/354321/selenium.svg" width="48" height="48">](https://www.selenium.dev)  &nbsp; 
 [<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48">](https://www.postman.com)  &nbsp; 
 [<img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="48" height="48">](https://insomnia.rest) &nbsp;
@@ -44,6 +44,11 @@ Sou **Anderson Soares**, um profissional apaixonado por **qualidade de software*
 [<img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="48" height="48">](https://www.atlassian.com/software/jira) &nbsp;
 [<img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" width="48" height="48">](https://swagger.io) &nbsp;
 [<img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="48" height="48">](https://nodejs.org) &nbsp;
+
+---
+### 📊 Metodologias Ágeis
+[![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)](https://scrumguides.org/)
+[![Kanban](https://img.shields.io/badge/Kanban-009688?style=for-the-badge)](https://kanban.org/)
 
 ---
 ## 🔥 Linha do GitHub
@@ -62,9 +67,15 @@ Sou **Anderson Soares**, um profissional apaixonado por **qualidade de software*
 ### 📫 Como me encontrar
 
 Entre em contato comigo para trocarmos ideias, colaborar em projetos ou falar sobre qualidade de software:  
-📧 andersonsoares123@gmail.com 
 
-🌐 LinkedIn - https://www.linkedin.com/in/anderson-soares-7b27961a3/
+<p align="center">
+  <a href="https://www.linkedin.com/in/anderson-soares-7b27961a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andersonsoaresss123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
